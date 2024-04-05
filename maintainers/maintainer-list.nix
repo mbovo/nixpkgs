@@ -12553,6 +12553,12 @@
     githubId = 51356;
     name = "Mathieu Boespflug";
   };
+  mbovo = {
+    email = "manuel.bovo@gmail.com";
+    github = "mbovo";
+    githubId = 19665312;
+    name = "Manuel Bovo";
+  };
   mbprtpmnr = {
     name = "mbprtpmnr";
     email = "mbprtpmnr@pm.me";

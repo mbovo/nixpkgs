@@ -9468,6 +9468,10 @@ self: super: with self; {
 
   pdoc3 = callPackage ../development/python-modules/pdoc3 { };
 
+  pdpyras = callPackage ../development/python-modules/pdpyras { };
+
+  pdh = callPackage ../development/python-modules/pdh { };
+
   peaqevcore = callPackage ../development/python-modules/peaqevcore { };
 
   pegen = callPackage ../development/python-modules/pegen { };
